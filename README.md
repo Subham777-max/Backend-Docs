@@ -8,6 +8,7 @@ The goal of this repository is to keep backend concepts, implementation patterns
 
 | Topic | Description |
 | --- | --- |
+| [Authentication Notes](authentication-notes.html) | Concepts and practical notes for implementing authentication in backend applications. |
 | [Access and Refresh Tokens](access-refresh-tokens.html) | How access tokens and refresh tokens work, including token flow, storage, rotation, and implementation guidance. |
 
 ## Opening the documentation
